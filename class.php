@@ -19,5 +19,6 @@
     $person1->name = "Sarutobi";
     $person1->age = "80";
 
+    
     echo $person1->introduce();
 ?>

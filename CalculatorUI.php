@@ -56,6 +56,7 @@
             echo " <h3 class='text-center'>" .$calc->getFirstNum(). " " .$calc->getOperator(). " " .$calc->getSecondNum(). " = " .$calc->compute();
         
             
+            
         }
     ?>
 </body>

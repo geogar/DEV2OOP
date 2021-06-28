@@ -21,4 +21,6 @@
     echo "Student Name:".$Ryosuke->first_name. " " . $Ryosuke->last_name . "<br> Employment Status: " . $Ryosuke->employed . "<br>";
     
 
+    
+
 ?>

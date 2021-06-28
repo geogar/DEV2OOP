@@ -40,3 +40,5 @@
         echo "Total tuition: " .number_format($s->compute(),2);
     }
 ?>
+
+
